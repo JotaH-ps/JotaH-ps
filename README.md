@@ -13,6 +13,6 @@
 
 ###
 
-<p align="left">👀 I’m currently open for work!<br><br>🌱 I’m currently learning programming object oriented, web development<br><br>🔎 Contact me: helio.souza.dev@gmail.com</p>
+<p align="left">🔎 Contact me: helio.souza.dev@gmail.com</p>
 
 ###
